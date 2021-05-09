@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 I am Vijaya Gunukula!
 
 <!--
 **Vijayag04/vijayag04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+I'm a aspiring Data Scientist interested in finding insights in information from a variety of places. I am Graduate from Flatiron School's Data Science Program. Experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. With a background in mathematics, I bring strong analytical skills, close attention to detail, and a significant ability to work in team environments.
+
+### Blog
+https://gvijayared.medium.com/
+
+### Linkedin
+https://www.linkedin.com/in/vijaya-gunukula/
