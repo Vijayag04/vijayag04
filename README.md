@@ -19,7 +19,7 @@ I'm Data Scientist interested in finding insights in information from a variety 
 
 I am passionate about utilizing data analysis skills and technology to find solutions to real-world problems and developing thoughtful and efficient solutions.
 
-I enjoy gardening, cooking, hiking and listening to music.
+I also enjoy gardening, cooking, hiking and listening to music.
 
 ### Blog
 https://gvijayared.medium.com/
