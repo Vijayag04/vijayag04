@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I'm Data Scientist interested in finding insights in information from a variety of places. I have recently graduated from Flatiron School's Data Science Program. Experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, NLP and Pyhton. With a background in mathematics, I bring strong analytical skills, close attention to detail, and a significant ability to work in team environments.
-I am passionate about utilizing data analysis skills and technology to find solutions to real-world problems and developing thoughtful and efficient solutions.
+I'm Data Scientist interested in finding insights in information from a variety of places. I have recently graduated from Flatiron School's Data Science Program. Experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, NLP and Pyhton. With a background in mathematics, I bring strong analytical skills, close attention to detail, and a significant ability to work in team environments.<br>
+I am passionate about utilizing data analysis skills and technology to find solutions to real-world problems and developing thoughtful and efficient solutions.<br>
 I enjoy gardening, cooking, hiking and listening to music.
 
 ### Blog
